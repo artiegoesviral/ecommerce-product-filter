@@ -16,3 +16,9 @@ HTML, CSS, JavaScript
 - Add sorting by price
 - Add local JSON data source
 - Improve accessibility labels
+
+## Live Demon
+https://artiegoesviral.github.io/ecommerce-product-filter/
+
+## Author
+Qurat-ul-anne Sikander Akhter
