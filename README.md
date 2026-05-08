@@ -17,7 +17,7 @@ HTML, CSS, JavaScript
 - Add local JSON data source
 - Improve accessibility labels
 
-## Live Demon
+## Live Demo
 https://artiegoesviral.github.io/ecommerce-product-filter/
 
 ## Author
